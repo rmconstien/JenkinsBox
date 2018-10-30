@@ -1,0 +1,17 @@
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\test.deps.json
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\test.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\test.pdb
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.pdb
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\src.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\bin\Debug\netcoreapp2.1\src.pdb
+C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\test\obj\Debug\netcoreapp2.1\test.csproj.CopyComplete
