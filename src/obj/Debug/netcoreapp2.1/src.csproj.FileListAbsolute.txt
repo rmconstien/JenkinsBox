@@ -9,3 +9,14 @@ C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\src\obj\Debug\netcoreapp2
 C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\src\obj\Debug\netcoreapp2.1\src.AssemblyInfo.cs
 C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\src\obj\Debug\netcoreapp2.1\src.dll
 C:\Users\rachel.constien\Documents\Code\JenkinsSandbox\src\obj\Debug\netcoreapp2.1\src.pdb
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\bin\Debug\netcoreapp2.1\src.deps.json
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\bin\Debug\netcoreapp2.1\src.runtimeconfig.json
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\bin\Debug\netcoreapp2.1\src.runtimeconfig.dev.json
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\bin\Debug\netcoreapp2.1\src.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\bin\Debug\netcoreapp2.1\src.pdb
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\obj\Debug\netcoreapp2.1\src.csprojAssemblyReference.cache
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\obj\Debug\netcoreapp2.1\src.csproj.CoreCompileInputs.cache
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\obj\Debug\netcoreapp2.1\src.AssemblyInfoInputs.cache
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\obj\Debug\netcoreapp2.1\src.AssemblyInfo.cs
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\obj\Debug\netcoreapp2.1\src.dll
+C:\Users\rachel.constien\Documents\Code\JenkinsBox\src\obj\Debug\netcoreapp2.1\src.pdb

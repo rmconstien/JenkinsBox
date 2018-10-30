@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\src\\src.csproj",
+      "projectUniqueName": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\src\\src.csproj",
       "projectName": "src",
-      "projectPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\src\\src.csproj",
+      "projectPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\src\\src.csproj",
       "packagesPath": "C:\\Users\\rachel.constien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\src\\obj\\",
+      "outputPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

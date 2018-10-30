@@ -5792,11 +5792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\test\\test.csproj",
+      "projectPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\test\\test.csproj",
       "packagesPath": "C:\\Users\\rachel.constien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\test\\obj\\",
+      "outputPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5813,8 +5813,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\src\\src.csproj": {
-              "projectPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsSandbox\\src\\src.csproj"
+            "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\src\\src.csproj": {
+              "projectPath": "C:\\Users\\rachel.constien\\Documents\\Code\\JenkinsBox\\src\\src.csproj"
             }
           }
         }
